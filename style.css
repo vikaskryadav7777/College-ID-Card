@@ -1,0 +1,77 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.id{
+    border-radius: 14px;
+    border: 3px solid black;
+    margin: 200px;
+    height: 400px;
+    width: 600px;
+}
+.header{
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    background-color: rgb(98, 134, 201);
+    height: 100px;
+    width: 600px;
+}
+.mid{
+    display: flex;
+    background-color: rgb(112, 220, 244);
+    height: 250px;
+    width: 600px;
+}
+
+.logo{ 
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.name{
+    h3{
+        margin-left: 50px;
+    }
+   p{
+    margin-left: 120px;
+   }
+    height: 100px;
+    width: 500px;
+}
+.photo{
+    margin: 35px;
+    height: 180px;
+    width: 130px;
+}
+.detail{
+    margin-top: 30px;
+    height: 250px;
+    width: 400px;
+}
+.lo{
+    margin-left: 20px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.ph{
+    height: 180px;
+    width: 130px;
+}
+.co{
+    margin-left: 210px;
+    height: 250px;
+    opacity: 0.2;
+    border-radius: 50%;
+    position: absolute;
+}
+.footer{
+    background-color:rgb(98, 134, 201);
+    width: 600px;
+    height: 50px;
+    border-radius: 0 0 12px 12px;
+}
+.footer , p {
+    margin-top: 0px;
+    font-size: large;
+}
